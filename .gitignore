@@ -87,6 +87,7 @@ Table_TUMVI_rooms/
 *.osa
 .idea/
 my_settings.txt
+.DS_Store
 
 borrar/*
 
